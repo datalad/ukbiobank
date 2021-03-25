@@ -25,6 +25,7 @@ ukb2bids = {
 '25753_0': '{unrecogdir}/fMRI/sub-{subj}_{session}_task-rest_partial_correlation_matrix_d100',
 '25754_0': '{unrecogdir}/fMRI/sub-{subj}_{session}_task-rest_component_amplitudes_d25',
 '25755_0': '{unrecogdir}/fMRI/sub-{subj}_{session}_task-rest_component_amplitudes_d100',
+'20263_0': '{unrecogdir}/FreeSurfer',
 # raw
 '20252_0/T1/T1': '{session}/anat/sub-{subj}_{session}_T1w',
 '20250_0/dMRI/raw/AP': '{session}/dwi/sub-{subj}_{session}_acq-AP_dwi',
